@@ -1,0 +1,7 @@
+A script to automate trolling on b@b. 
+Only a proof of concept. DO NOT USE MALICIOUSLY.
+For that reason you need to supply your own oauth keys
+in a file called keys. The format is the following:
+
+consumer key:#YOUR KEY HERE
+consumer secret:#YOUR SECRET HERE
